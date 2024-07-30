@@ -1,0 +1,15 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\bin\Debug\net6.0\1512_Number_of_Good_Pairs.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\bin\Debug\net6.0\1512_Number_of_Good_Pairs.deps.json
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\bin\Debug\net6.0\1512_Number_of_Good_Pairs.runtimeconfig.json
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\bin\Debug\net6.0\1512_Number_of_Good_Pairs.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\bin\Debug\net6.0\1512_Number_of_Good_Pairs.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\1512_Number_of_Good_Pairs.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\1512_Number_of_Good_Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\1512_Number_of_Good_Pairs.AssemblyInfoInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\1512_Number_of_Good_Pairs.AssemblyInfo.cs
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\1512_Number_of_Good_Pairs.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\1512_Number_of_Good_Pairs.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\refint\1512_Number_of_Good_Pairs.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\1512_Number_of_Good_Pairs.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\1512_Number_of_Good_Pairs.genruntimeconfig.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1512_Number_of_Good_Pairs\obj\Debug\net6.0\ref\1512_Number_of_Good_Pairs.dll

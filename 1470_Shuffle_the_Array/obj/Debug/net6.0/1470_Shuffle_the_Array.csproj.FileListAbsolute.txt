@@ -1,0 +1,5 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1470_Shuffle_the_Array\obj\Debug\net6.0\1470_Shuffle_the_Array.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1470_Shuffle_the_Array\obj\Debug\net6.0\1470_Shuffle_the_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1470_Shuffle_the_Array\obj\Debug\net6.0\1470_Shuffle_the_Array.AssemblyInfoInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1470_Shuffle_the_Array\obj\Debug\net6.0\1470_Shuffle_the_Array.AssemblyInfo.cs
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1470_Shuffle_the_Array\obj\Debug\net6.0\1470_Shuffle_the_Array.csproj.CoreCompileInputs.cache

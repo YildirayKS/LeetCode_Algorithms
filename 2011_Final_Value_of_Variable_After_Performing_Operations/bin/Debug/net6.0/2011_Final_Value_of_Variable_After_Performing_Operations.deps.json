@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2011_Final_Value_of_Variable_After_Performing_Operations/1.0.0": {
+        "runtime": {
+          "2011_Final_Value_of_Variable_After_Performing_Operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2011_Final_Value_of_Variable_After_Performing_Operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

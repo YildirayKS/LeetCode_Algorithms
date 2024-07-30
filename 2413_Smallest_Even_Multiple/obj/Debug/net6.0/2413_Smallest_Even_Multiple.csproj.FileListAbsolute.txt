@@ -1,0 +1,5 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2413_Smallest_Even_Multiple\obj\Debug\net6.0\2413_Smallest_Even_Multiple.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2413_Smallest_Even_Multiple\obj\Debug\net6.0\2413_Smallest_Even_Multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2413_Smallest_Even_Multiple\obj\Debug\net6.0\2413_Smallest_Even_Multiple.AssemblyInfoInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2413_Smallest_Even_Multiple\obj\Debug\net6.0\2413_Smallest_Even_Multiple.AssemblyInfo.cs
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2413_Smallest_Even_Multiple\obj\Debug\net6.0\2413_Smallest_Even_Multiple.csproj.CoreCompileInputs.cache

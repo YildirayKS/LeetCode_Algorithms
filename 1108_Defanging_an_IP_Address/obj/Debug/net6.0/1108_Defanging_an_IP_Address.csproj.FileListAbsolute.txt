@@ -1,0 +1,5 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1108_Defanging_an_IP_Address\obj\Debug\net6.0\1108_Defanging_an_IP_Address.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1108_Defanging_an_IP_Address\obj\Debug\net6.0\1108_Defanging_an_IP_Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1108_Defanging_an_IP_Address\obj\Debug\net6.0\1108_Defanging_an_IP_Address.AssemblyInfoInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1108_Defanging_an_IP_Address\obj\Debug\net6.0\1108_Defanging_an_IP_Address.AssemblyInfo.cs
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1108_Defanging_an_IP_Address\obj\Debug\net6.0\1108_Defanging_an_IP_Address.csproj.CoreCompileInputs.cache
