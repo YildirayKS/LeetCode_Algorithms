@@ -1,0 +1,15 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\bin\Debug\net6.0\1672_Richest_Customer_Wealth.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\bin\Debug\net6.0\1672_Richest_Customer_Wealth.deps.json
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\bin\Debug\net6.0\1672_Richest_Customer_Wealth.runtimeconfig.json
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\bin\Debug\net6.0\1672_Richest_Customer_Wealth.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\bin\Debug\net6.0\1672_Richest_Customer_Wealth.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\1672_Richest_Customer_Wealth.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\1672_Richest_Customer_Wealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\1672_Richest_Customer_Wealth.AssemblyInfoInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\1672_Richest_Customer_Wealth.AssemblyInfo.cs
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\1672_Richest_Customer_Wealth.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\1672_Richest_Customer_Wealth.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\refint\1672_Richest_Customer_Wealth.dll
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\1672_Richest_Customer_Wealth.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\1672_Richest_Customer_Wealth.genruntimeconfig.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\1672_Richest_Customer_Wealth\obj\Debug\net6.0\ref\1672_Richest_Customer_Wealth.dll
