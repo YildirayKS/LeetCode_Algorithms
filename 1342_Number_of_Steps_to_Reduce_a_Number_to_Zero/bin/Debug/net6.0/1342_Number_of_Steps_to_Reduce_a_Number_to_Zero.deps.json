@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1342_Number_of_Steps_to_Reduce_a_Number_to_Zero/1.0.0": {
+        "runtime": {
+          "1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1342_Number_of_Steps_to_Reduce_a_Number_to_Zero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

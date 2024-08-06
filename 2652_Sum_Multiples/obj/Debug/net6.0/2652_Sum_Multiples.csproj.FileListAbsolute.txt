@@ -1,0 +1,5 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2652_Sum_Multiples\obj\Debug\net6.0\2652_Sum_Multiples.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2652_Sum_Multiples\obj\Debug\net6.0\2652_Sum_Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2652_Sum_Multiples\obj\Debug\net6.0\2652_Sum_Multiples.AssemblyInfoInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2652_Sum_Multiples\obj\Debug\net6.0\2652_Sum_Multiples.AssemblyInfo.cs
+C:\Users\Yıldıray KARASUBAŞI\Desktop\LeetCode Algorithms\Algorithms\2652_Sum_Multiples\obj\Debug\net6.0\2652_Sum_Multiples.csproj.CoreCompileInputs.cache
